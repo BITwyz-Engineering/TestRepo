@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 I am not Tim!
-=======
-Hello World
-I am Tim
->>>>>>> 8dce106d16bda372f5d9f2cabdcc3702a9efc499
